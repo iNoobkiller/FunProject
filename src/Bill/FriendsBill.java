@@ -19,7 +19,7 @@ public class FriendsBill {
 	    bills[1] = 25.50 + 8.366;
 	    names[2] = "Mahfuz and Zinia";
 	    bills[2] = 45.5 + (8.366 + 8.366);
-	        
+	        // Git 2nd Update 
 	    // >>>>>>>>Bangbang + Tax + tips bills = 41.83 * 5 = 8.36 
 
 	    for (int i = 0; i < numFriends; i++) {
